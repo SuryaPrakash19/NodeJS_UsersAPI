@@ -1,0 +1,5 @@
+Logs started:
+GET /api/users
+GET /api/users/1
+GET /api/users/3
+GET /api/users
